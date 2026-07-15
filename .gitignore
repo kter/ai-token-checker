@@ -1,0 +1,6 @@
+/ai-token-checker
+/.cache/
+/dist/
+*.test
+*.out
+.DS_Store
